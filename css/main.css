@@ -276,6 +276,11 @@ a:hover, a:focus {
 	margin-top: 6px;
 }
 
+a.logo {
+  font-size: 2em;
+  color: #000;
+}
+
 
 
 /* ==========================================================================
@@ -291,6 +296,11 @@ header {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+}
+
+header a.logo {
+  font-size: 2em;
+  color: #fff;
 }
 
 .header-info {
@@ -370,7 +380,10 @@ header {
 
 
 #be-the-first {
+  /*
   background: url(../img/be-the-first-bg.jpg) #231f20 no-repeat center center fixed;
+  **/
+  background-color: #6d3f96;
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
