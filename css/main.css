@@ -234,7 +234,7 @@ a:hover, a:focus {
 
 .navbar {
     border: 0px solid rgba(0, 0, 0, 0);
-    background: #70cbce;
+    background: #FFD925;
     margin: auto;
     min-height: 60px;
     padding-top: 8px;
@@ -278,7 +278,7 @@ a:hover, a:focus {
 
 a.logo {
   font-size: 2em;
-  color: #000;
+  color: #fff;
 }
 
 
@@ -296,11 +296,6 @@ header {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-}
-
-header a.logo {
-  font-size: 2em;
-  color: #fff;
 }
 
 .header-info {
@@ -383,7 +378,7 @@ header a.logo {
   /*
   background: url(../img/be-the-first-bg.jpg) #231f20 no-repeat center center fixed;
   **/
-  background-color: #6d3f96;
+  background-color: #00059C;
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -409,6 +404,21 @@ hr.line {
 .yellow {
 	border-color: #fdc05d;
 	color: #fdc05d;
+}
+
+.enlighten-darkblue {
+  border-color: #00059C;
+  color: #00059C;
+}
+
+.enlighten-blue {
+  border-color: #2923FF;
+  color: #2923FF;
+}
+
+.enlighten-yellow {
+  border-color: #FFD925;
+  color: #FFD925;
 }
 
 .iphone {
